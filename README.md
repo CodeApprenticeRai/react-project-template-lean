@@ -1,1 +1,2 @@
-# Log Viewer Application for Online Banking System
+# Lean React Project Template
+Clone and start writing components. Minimal bloat. 
