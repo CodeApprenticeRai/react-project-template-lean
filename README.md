@@ -1,1 +1,1 @@
-# Team3Banking
+# Log Viewer Application for Online Banking System
